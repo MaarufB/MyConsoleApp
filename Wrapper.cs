@@ -7,6 +7,5 @@ namespace myconsole
     {
         public LoopClass LoopClass { get; set; }
         public SortingClass SortingClass { get; set; }
-        
     }
 }
