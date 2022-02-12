@@ -1,0 +1,16 @@
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.exe
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.deps.json
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.runtimeconfig.json
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.runtimeconfig.dev.json
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.dll
+C:\Users\Dell\myconsole\bin\Debug\net5.0\ref\myconsole.dll
+C:\Users\Dell\myconsole\bin\Debug\net5.0\myconsole.pdb
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.csproj.AssemblyReference.cache
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.AssemblyInfoInputs.cache
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.AssemblyInfo.cs
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.dll
+C:\Users\Dell\myconsole\obj\Debug\net5.0\ref\myconsole.dll
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.pdb
+C:\Users\Dell\myconsole\obj\Debug\net5.0\myconsole.genruntimeconfig.cache
